@@ -8,5 +8,7 @@ module com.maisonneuve.steamgames {
 
 
     opens com.maisonneuve.steamgames to javafx.fxml;
+    opens com.maisonneuve.steamgames.controller to javafx.fxml;
     exports com.maisonneuve.steamgames;
+    exports com.maisonneuve.steamgames.controller;
 }
