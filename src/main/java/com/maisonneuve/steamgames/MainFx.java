@@ -13,16 +13,15 @@ public class MainFx extends Application {
 
     @Override
     public void start(Stage stage) throws Exception{
-        FXMLLoader loader = new FXMLLoader(getClass().getResource("/vues/lab.fxml"));
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("/vues/steam_games_library.fxml"));
         Parent root = loader.load();
 
         Scene scene = new Scene(root);
         stage.setTitle("SteamGamesLibrary");
         stage.setScene(scene);
-        stage.setMinWidth(900);
-        stage.setMinHeight(600);
+        stage.setMinWidth(600);
+        stage.setMinHeight(400);
 
         stage.show();
     }
-
 }
