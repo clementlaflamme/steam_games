@@ -35,18 +35,7 @@ public class Jeu {
 
     @Override
     public String toString() {
-        return "Jeu{" +
-                "id=" + id +
-                ", titre='" + titre + '\'' +
-                ", developpeur='" + developpeur + '\'' +
-                ", genre=" + genre +
-                ", prix=" + prix +
-                ", note=" + note +
-                ", tempsJeuHeures=" + tempsJeuHeures +
-                ", dateSortie=" + dateSortie +
-                ", estFavori=" + estFavori +
-                ", estDansWishlist=" + estDansWishlist +
-                '}';
+        return titre + " [" + genre + "]";
     }
 
     public void setNote(double note) {
