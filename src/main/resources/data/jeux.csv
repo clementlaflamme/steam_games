@@ -1,0 +1,501 @@
+id,titre,developpeur,genre,prix,note,tempsJeuHeures,dateSortie
+1,Metal Gear Solid V,Kojima Productions,Action,29.99,9.2,90,2015-09-01
+2,Destiny 2,Bungie,FPS,0.0,7.9,250,2017-09-06
+3,Eternal Machine III,Deep Wave,Strategie,39.99,3.4,90,2019-05-03
+4,Eternal Odyssey: Definitive Edition,Sunrise Software,Puzzle,24.99,8.3,70,2024-04-22
+5,Silent Legacy II,Frostbite Studios,Battle Royale,39.99,9.0,107,2010-10-13
+6,Wild Blades: Dark Genesis,Solstice Interactive,Aventure,14.99,9.1,101,2019-03-20
+7,Shattered Fortress: Rise of the Fallen,Ember Software,MOBA,69.99,6.1,77,2025-01-25
+8,Eternal Awakening: New Dawn,Titan Interactive,Simulation,79.99,8.1,103,2018-04-01
+9,Sacred Legacy Ultimate,Nova Interactive,Course,4.99,9.4,102,2022-12-04
+10,Crimson Knights: Rise of the Fallen,Frostbite Studios,Rythme,9.99,9.1,53,2010-11-20
+11,Golden Shadows II,Wildfire Entertainment,Point & Click,24.99,7.0,94,2025-10-13
+12,Silver Fortress: Origins,Ember Software,Sandbox,29.99,7.7,81,2019-09-08
+13,Broken Frontier: Origins,Frostbite Studios,Sport,39.99,6.7,91,2020-09-29
+14,Broken Realms,Sunrise Software,RPG,39.99,6.9,105,2017-10-08
+15,Hidden Throne Ultimate,Pixel Forge,Battle Royale,29.99,7.9,76,2022-01-10
+16,Ancient Knights: Remastered,Solstice Interactive,Metroidvania,24.99,4.7,90,2013-08-25
+17,Iron Machine: Reborn,Neon Studios,RPG,24.99,7.2,75,2017-12-09
+18,Mythic Empire: The Beginning,Northern Lights,FPS,0.0,6.8,48,2019-12-14
+19,Silksong,Team Cherry,Metroidvania,29.99,9.5,45,2025-06-01
+20,Super Mario Bros. Wonder,Nintendo,Plateforme,69.99,9.1,25,2023-10-20
+21,Endless Requiem: Remastered,Ember Software,Action,0.0,8.5,95,2012-05-30
+22,Shattered Fortress: Rise of the Fallen,Iron Games,Battle Royale,49.99,9.2,105,2025-09-22
+23,Baldur's Gate 3,Larian,RPG,79.99,9.7,150,2023-08-03
+24,Frozen Shadows: Reborn,Neon Studios,Puzzle,39.99,8.5,65,2025-09-25
+25,Doom (2016),id Software,FPS,19.99,8.9,15,2016-05-13
+26,Deadly Frontier: Final Cut,Zenith Games,Action,69.99,9.0,134,2011-05-14
+27,Forgotten Saga HD,Pixel Forge,Roguelike,19.99,8.8,56,2011-08-04
+28,Super Mario Odyssey,Nintendo,Plateforme,79.99,9.3,40,2017-10-27
+29,Broken Legends,Pixel Forge,Strategie,19.99,7.3,96,2012-12-06
+30,Silent Souls: Remastered,Sunrise Software,Course,19.99,7.4,70,2021-01-22
+31,Counter-Strike 2,Valve,FPS,0.0,8.9,400,2023-09-27
+32,Deadly Throne: Reborn,Zenith Games,Point & Click,9.99,8.0,75,2018-09-10
+33,Crimson Souls: Rise of the Fallen,Sunrise Software,Rythme,9.99,8.6,82,2021-12-19
+34,Ancient Uprising II,Solstice Interactive,Horreur,89.99,7.1,95,2022-07-15
+35,Iron Guardians: Definitive Edition,Hollow Studios,Course,49.99,7.8,74,2023-09-07
+36,Crimson Shadows Chapter 2,Silverline,Aventure,59.99,7.1,121,2012-06-07
+37,Hidden Blades: Rise of the Fallen,Frostbite Studios,Aventure,9.99,7.6,84,2022-08-19
+38,Cursed Uprising: Remastered,Cobalt Studios,FPS,59.99,9.2,83,2017-06-01
+39,Doom Eternal,id Software,FPS,59.99,9.1,25,2020-03-20
+40,Shattered Legends: Final Cut,Iron Games,Puzzle,49.99,3.6,97,2015-01-23
+41,Divine Rebellion III,Ember Software,Strategie,89.99,8.1,103,2016-12-10
+42,Spider-Man Remastered,Insomniac,Action,59.99,9.1,30,2018-09-07
+43,Forgotten Legacy: Definitive Edition,Vanguard Studios,Action,49.99,7.1,98,2017-06-10
+44,Red Dead Redemption 2,Rockstar,Aventure,79.99,9.5,110,2018-10-26
+45,Overwatch 2,Blizzard,FPS,0.0,7.5,150,2022-10-04
+46,Divine Kingdom: Final Cut,Crimson Byte,Simulation,79.99,7.1,124,2023-06-26
+47,Call of Duty: Modern Warfare III,Activision,FPS,89.99,6.8,60,2023-11-10
+48,Sacred Odyssey Chapter 2,Northern Lights,Sport,24.99,7.0,66,2024-01-12
+49,Elden Ring,FromSoftware,RPG,79.99,9.5,90,2022-02-25
+50,Endless Frontier: Final Cut,Vex Games,Sandbox,4.99,8.6,63,2016-09-02
+51,Ancient Codex: Dark Genesis,Crimson Byte,MOBA,49.99,8.7,120,2011-08-04
+52,Golden Warriors: Rise of the Fallen,Silverline,Metroidvania,49.99,8.8,88,2013-06-04
+53,Animal Crossing: New Horizons,Nintendo,Simulation,79.99,9.0,300,2020-03-20
+54,Dark Titans: Origins,Frostbite Studios,Sandbox,69.99,7.3,90,2017-05-23
+55,Forgotten Saga: Origins,Neon Studios,VR,49.99,5.9,69,2022-06-04
+56,Crimson Warriors HD,Wildfire Entertainment,Roguelike,39.99,5.3,64,2017-02-18
+57,Hades,Supergiant,Roguelike,24.99,9.4,50,2020-09-17
+58,Sacred Ashes: Reborn,Solstice Interactive,Simulation,0.0,4.4,54,2013-10-01
+59,Silent Odyssey: Definitive Edition,Pixel Forge,RPG,29.99,8.8,89,2024-12-27
+60,The Last of Us Part I,Naughty Dog,Aventure,79.99,9.2,20,2022-09-02
+61,Chaotic Riders: The Beginning,Wildfire Entertainment,Battle Royale,4.99,5.7,37,2018-09-03
+62,Ancient Odyssey II,Vex Games,Horreur,29.99,7.2,73,2011-01-12
+63,Chaotic Ashes: Final Cut,Pixel Forge,Puzzle,89.99,3.8,105,2021-04-07
+64,Broken Odyssey: Origins,Neon Studios,MMORPG,0.0,8.4,73,2011-12-19
+65,Lost Sanctuary HD,Ember Software,VR,89.99,6.0,76,2024-10-05
+66,Shattered Realms: Remastered,Solstice Interactive,Rythme,14.99,7.8,51,2019-07-23
+67,Lost Empire: The Beginning,Cyclone Games,Course,79.99,8.0,107,2025-08-01
+68,Fallen Sanctuary Ultimate,Lunar Games,Course,29.99,7.8,101,2011-11-02
+69,Divine Shadows: Definitive Edition,Northern Lights,Plateforme,89.99,5.5,104,2024-05-01
+70,Endless Machine: Origins,Wildfire Entertainment,Battle Royale,0.0,8.9,93,2018-06-20
+71,Rising Empire III,Lunar Games,MOBA,89.99,6.1,108,2022-06-15
+72,Cursed Warriors: Dark Genesis,Lunar Games,MMORPG,29.99,4.3,86,2013-05-07
+73,Mythic Codex: Reborn,Sunrise Software,Strategie,0.0,7.4,97,2016-10-03
+74,Eternal Realms: The Beginning,Frostbite Studios,MMORPG,9.99,7.6,48,2015-07-27
+75,Golden Legacy III,Ember Software,Metroidvania,59.99,5.5,57,2024-04-06
+76,Broken Knights III,Frostbite Studios,Horreur,49.99,3.5,77,2013-01-23
+77,Ancient Ashes: Final Cut,Sunrise Software,Horreur,19.99,4.8,62,2025-10-27
+78,Ghost of Tsushima,Sucker Punch,Aventure,59.99,9.2,50,2020-07-17
+79,Iron Saga HD,Iron Games,Roguelike,39.99,7.3,101,2023-08-24
+80,Lost Guardians: Remastered,Zenith Games,Roguelike,69.99,8.7,108,2016-03-18
+81,Terraria,Re-Logic,Sandbox,9.99,9.3,150,2011-05-16
+82,Fallout 4,Bethesda,RPG,29.99,8.5,100,2015-11-10
+83,Left 4 Dead 2,Valve,FPS,9.99,8.9,40,2009-11-17
+84,Xenoblade Chronicles 3,Monolith Soft,RPG,79.99,9.0,120,2022-07-29
+85,Crimson Shadows,Wildfire Entertainment,Battle Royale,29.99,7.1,69,2022-06-21
+86,Endless Fortress: Rise of the Fallen,Deep Wave,Aventure,14.99,7.7,104,2015-02-20
+87,Ancient Machine: Origins,Nova Interactive,MMORPG,0.0,4.1,62,2011-02-26
+88,Eternal Odyssey Chapter 2,Vanguard Studios,Horreur,69.99,5.1,80,2021-11-29
+89,Wild Requiem: Rise of the Fallen,Vanguard Studios,Action,29.99,8.6,116,2010-02-24
+90,Fire Emblem: Three Houses,Intelligent Systems,RPG,79.99,9.1,100,2019-07-26
+91,Cursed Awakening: Rise of the Fallen,Vex Games,Course,19.99,5.6,86,2019-11-13
+92,Nier: Automata,PlatinumGames,Action,39.99,9.0,40,2017-03-07
+93,Rising Souls HD,Zenith Games,Plateforme,14.99,7.0,69,2013-07-26
+94,Rising Requiem: Reborn,Crimson Byte,VR,39.99,6.4,51,2015-01-27
+95,Legendary Warriors: The Beginning,Frostbite Studios,Horreur,14.99,8.6,85,2016-08-12
+96,Shattered Requiem: Definitive Edition,Solstice Interactive,Puzzle,59.99,7.1,110,2023-08-07
+97,Silver Requiem: Final Cut,Deep Wave,Simulation,49.99,7.0,77,2011-02-25
+98,Crimson Hunters: Rise of the Fallen,Cyclone Games,Sandbox,39.99,9.2,114,2025-03-29
+99,Lost Guardians Chapter 2,Frostbite Studios,Rythme,29.99,8.1,108,2018-11-24
+100,Frozen Throne HD,Lunar Games,Sandbox,79.99,7.1,106,2018-09-16
+101,Hidden Frontier: New Dawn,Vex Games,Strategie,49.99,9.0,98,2010-07-13
+102,Iron Chronicles: Remastered,Cobalt Studios,Aventure,14.99,5.1,81,2014-06-23
+103,Cyberpunk 2077,CD Projekt Red,RPG,59.99,8.3,80,2020-12-10
+104,Endless Codex II,Solstice Interactive,Simulation,39.99,8.7,68,2011-02-16
+105,Blessed Riders Ultimate,Crimson Byte,Sport,9.99,9.0,70,2023-07-07
+106,Shattered Odyssey Ultimate,Zenith Games,Roguelike,29.99,3.8,82,2011-06-24
+107,Golden Legends: Definitive Edition,Vex Games,Puzzle,79.99,9.0,96,2015-12-17
+108,Dark Souls III,FromSoftware,RPG,59.99,9.3,60,2016-04-12
+109,Forgotten Codex: New Dawn,Ember Software,Rythme,59.99,8.9,110,2023-10-06
+110,Lost Legacy Chapter 2,Iron Games,Action,79.99,8.2,129,2015-11-18
+111,Hidden Codex: Reborn,Sunrise Software,VR,39.99,8.9,71,2020-11-30
+112,Silver Sanctuary: Origins,Sunrise Software,Roguelike,39.99,8.1,73,2022-04-11
+113,Lost Realms II,Northern Lights,VR,39.99,5.9,62,2018-08-12
+114,Silver Realms: New Dawn,Vex Games,Puzzle,0.0,5.6,45,2016-09-27
+115,Endless Saga Chapter 2,Zenith Games,Simulation,19.99,6.4,84,2021-12-24
+116,Persona 3 Reload,Atlus,RPG,69.99,9.0,60,2024-02-02
+117,Shattered Machine Chapter 2,Solstice Interactive,Puzzle,4.99,5.3,40,2017-02-04
+118,Sacred Warriors: Final Cut,Solstice Interactive,Battle Royale,4.99,7.5,89,2025-02-25
+119,Lost Hunters III,Nova Interactive,FPS,29.99,7.0,99,2023-01-19
+120,Eternal Realms: Origins,Hollow Studios,MMORPG,24.99,3.1,77,2013-04-07
+121,Lost Blades,Lunar Games,Battle Royale,79.99,7.6,112,2025-06-18
+122,Cursed Throne II,Hollow Studios,RPG,69.99,3.1,63,2015-06-25
+123,Blessed Requiem: Remastered,Pixel Forge,Sport,29.99,4.0,86,2016-06-01
+124,Deadly Hunters Ultimate,Ember Software,MMORPG,0.0,6.3,36,2023-03-25
+125,Lost Legends: New Dawn,Vanguard Studios,Rythme,19.99,9.0,83,2022-01-09
+126,Divinity: Original Sin 2,Larian,RPG,44.99,9.4,80,2017-09-14
+127,Fallen Skies: Reborn,Titan Interactive,Strategie,24.99,9.3,82,2012-04-14
+128,Broken Requiem: Definitive Edition,Aurora Interactive,Course,9.99,4.1,33,2021-11-01
+129,Hidden Saga: Definitive Edition,Pixel Forge,RPG,89.99,7.2,107,2020-08-03
+130,Blessed Skies: Dark Genesis,Hollow Studios,Action,39.99,3.8,40,2017-03-24
+131,Deadly Uprising: The Beginning,Pixel Forge,Sport,39.99,6.6,52,2021-08-18
+132,Rising Rebellion II,Lunar Games,Simulation,29.99,5.2,52,2016-03-31
+133,Deadly Guardians: Rise of the Fallen,Iron Games,Strategie,89.99,6.5,88,2017-12-20
+134,Final Fantasy XIV,Square Enix,MMORPG,39.99,9.2,500,2013-08-27
+135,Dragon Age: The Veilguard,BioWare,RPG,79.99,7.5,70,2024-10-31
+136,Legendary Sanctuary,Aurora Interactive,Course,59.99,9.3,129,2025-10-05
+137,Forgotten Odyssey: Rise of the Fallen,Northern Lights,Battle Royale,69.99,8.6,121,2016-11-18
+138,Frozen Crown: Dark Genesis,Iron Games,RPG,69.99,5.2,99,2016-01-05
+139,Chaotic Sanctuary: New Dawn,Neon Studios,Plateforme,24.99,6.7,66,2016-09-11
+140,Blessed Realms HD,Sunrise Software,Simulation,29.99,6.4,81,2025-12-19
+141,Divine Empire: Rise of the Fallen,Titan Interactive,Strategie,24.99,8.6,113,2022-01-01
+142,Blessed Shadows Ultimate,Crimson Byte,MMORPG,59.99,9.2,124,2021-04-12
+143,Shattered Crown,Vanguard Studios,Course,79.99,5.1,121,2018-05-10
+144,Legendary Chronicles III,Deep Wave,Puzzle,0.0,5.6,73,2012-01-18
+145,Blessed Chronicles: Rise of the Fallen,Deep Wave,Rythme,0.0,5.2,75,2012-12-09
+146,Ancient Realms Ultimate,Sunrise Software,Point & Click,69.99,6.9,128,2017-09-17
+147,Cursed Hunters: The Beginning,Ember Software,Roguelike,24.99,5.7,75,2017-11-22
+148,Diablo II Resurrected,Blizzard,RPG,39.99,8.6,60,2021-09-23
+149,Broken Requiem: Final Cut,Frostbite Studios,Action,24.99,3.9,84,2011-10-12
+150,Hidden Frontier II,Wildfire Entertainment,Puzzle,9.99,5.2,50,2024-05-22
+151,Rising Rebellion: Remastered,Solstice Interactive,Course,39.99,7.9,108,2012-09-09
+152,Eternal Crown: Rise of the Fallen,Sunrise Software,MOBA,14.99,8.1,56,2019-03-30
+153,Dark Skies: Dark Genesis,Zenith Games,Point & Click,4.99,7.6,78,2019-05-30
+154,Horizon Forbidden West,Guerrilla,Aventure,69.99,8.9,60,2022-02-18
+155,Iron Crown Ultimate,Solstice Interactive,VR,19.99,5.2,91,2023-09-09
+156,Hidden Sanctuary Chapter 2,Ember Software,Simulation,19.99,6.6,78,2017-04-05
+157,Endless Skies: Dark Genesis,Wildfire Entertainment,MOBA,69.99,5.1,86,2018-12-18
+158,Blessed Sanctuary: New Dawn,Frostbite Studios,Rythme,24.99,8.3,101,2012-08-31
+159,Horizon Zero Dawn,Guerrilla,Aventure,19.99,9.0,40,2017-02-28
+160,Portal 2,Valve,Puzzle,9.99,9.6,12,2011-04-18
+161,Hidden Guardians: Rise of the Fallen,Northern Lights,MMORPG,89.99,8.2,86,2023-02-03
+162,Hades II,Supergiant,Roguelike,29.99,9.5,60,2024-05-06
+163,Blessed Requiem Chapter 2,Vex Games,MOBA,4.99,6.6,61,2016-09-14
+164,Broken Riders: Definitive Edition,Ember Software,FPS,29.99,6.7,73,2017-02-27
+165,Frozen Realms: Dark Genesis,Cobalt Studios,MOBA,19.99,7.7,108,2017-02-10
+166,Frozen Chronicles: Final Cut,Silverline,Metroidvania,9.99,6.3,51,2011-12-14
+167,Blessed Skies: Origins,Lunar Games,RPG,0.0,8.3,92,2024-11-24
+168,Wild Riders Chapter 2,Cobalt Studios,RPG,39.99,7.7,98,2011-01-11
+169,Broken Chronicles: New Dawn,Hollow Studios,VR,4.99,9.4,93,2022-05-24
+170,Fortnite,Epic Games,Battle Royale,0.0,8.2,500,2017-07-25
+171,Lost Machine: Rise of the Fallen,Vanguard Studios,Puzzle,19.99,7.7,92,2024-03-16
+172,Chaotic Frontier HD,Frostbite Studios,VR,49.99,6.6,102,2011-11-26
+173,Eternal Throne: Rise of the Fallen,Cobalt Studios,VR,69.99,9.2,85,2019-05-06
+174,Final Fantasy VII Rebirth,Square Enix,RPG,79.99,9.0,80,2024-02-29
+175,Chaotic Guardians: Reborn,Pixel Forge,Battle Royale,79.99,7.3,133,2011-02-19
+176,Cursed Realms: Reborn,Cobalt Studios,Plateforme,49.99,8.5,115,2015-02-07
+177,Sacred Knights: New Dawn,Zenith Games,Metroidvania,49.99,8.9,85,2012-06-06
+178,Mythic Realms: Final Cut,Northern Lights,Battle Royale,9.99,9.0,87,2025-06-12
+179,Crimson Chronicles: Dark Genesis,Hollow Studios,Sport,0.0,8.0,100,2019-12-12
+180,League of Legends,Riot Games,MOBA,0.0,8.3,600,2009-10-27
+181,Frozen Frontier: Rise of the Fallen,Lunar Games,Roguelike,69.99,9.1,126,2019-01-10
+182,Mythic Crown III,Hollow Studios,Plateforme,59.99,8.7,113,2012-11-22
+183,Mythic Throne: Rise of the Fallen,Sunrise Software,Plateforme,19.99,3.8,63,2015-04-30
+184,Divine Odyssey II,Cyclone Games,Plateforme,39.99,8.3,109,2015-04-03
+185,Forgotten Realms II,Solstice Interactive,VR,0.0,5.6,45,2021-02-09
+186,Shattered Realms: Rise of the Fallen,Aurora Interactive,Strategie,0.0,8.8,45,2021-07-29
+187,Blessed Titans: Definitive Edition,Deep Wave,Course,89.99,3.1,84,2021-08-28
+188,Iron Requiem: Origins,Deep Wave,Point & Click,69.99,4.0,63,2022-03-10
+189,Lost Legacy: The Beginning,Vanguard Studios,Aventure,14.99,5.2,56,2024-04-04
+190,Wild Uprising: Definitive Edition,Silverline,Point & Click,79.99,7.2,99,2010-04-05
+191,Golden Awakening: Rise of the Fallen,Deep Wave,Simulation,24.99,9.4,105,2025-11-11
+192,Assassin's Creed Valhalla,Ubisoft,Aventure,59.99,7.8,100,2020-11-10
+193,Mythic Riders: The Beginning,Ember Software,MOBA,19.99,4.0,58,2022-01-21
+194,Iron Depths: Origins,Frostbite Studios,Puzzle,89.99,8.1,115,2017-01-04
+195,Rimworld,Ludeon,Simulation,34.99,9.2,300,2018-10-17
+196,Divine Realms Ultimate,Lunar Games,Strategie,79.99,6.8,128,2013-12-11
+197,Pokemon Scarlet/Violet,Game Freak,RPG,79.99,7.5,80,2022-11-18
+198,Endless Shadows: New Dawn,Nova Interactive,Battle Royale,29.99,7.9,75,2025-08-06
+199,Watch Dogs: Legion,Ubisoft,Action,49.99,7.2,35,2020-10-29
+200,Sacred Ashes Ultimate,Wildfire Entertainment,RPG,0.0,3.6,31,2016-09-17
+201,Forgotten Frontier: New Dawn,Crimson Byte,Battle Royale,14.99,5.9,90,2011-04-18
+202,Wild Realms HD,Deep Wave,Plateforme,24.99,5.0,73,2020-03-11
+203,Persona 5 Royal,Atlus,RPG,59.99,9.5,100,2019-10-31
+204,Mythic Requiem III,Vanguard Studios,MMORPG,24.99,5.4,47,2014-04-09
+205,Celeste,Maddy Makes Games,Plateforme,19.99,9.3,12,2018-01-25
+206,Silver Chronicles II,Silverline,Sandbox,24.99,8.2,91,2013-03-24
+207,Blessed Souls Chapter 2,Iron Games,RPG,0.0,7.9,90,2016-12-08
+208,Rising Warriors: Reborn,Ember Software,Simulation,24.99,7.6,96,2014-04-19
+209,The Last of Us Part II,Naughty Dog,Aventure,39.99,9.0,30,2020-06-19
+210,Fallen Frontier Chapter 2,Deep Wave,Horreur,14.99,8.5,59,2021-06-07
+211,Endless Throne II,Solstice Interactive,Point & Click,24.99,7.8,59,2025-10-29
+212,Diablo IV,Blizzard,RPG,89.99,8.0,120,2023-06-06
+213,Eternal Rebellion Chapter 2,Nova Interactive,Aventure,4.99,7.2,76,2015-06-28
+214,Divine Knights: Final Cut,Neon Studios,Metroidvania,69.99,3.0,105,2016-09-12
+215,Sacred Hunters Chapter 2,Sunrise Software,Plateforme,39.99,5.2,69,2010-06-29
+216,God of War Ragnarok,Santa Monica,Action,79.99,9.4,45,2022-11-09
+217,Hidden Frontier: Dark Genesis,Deep Wave,VR,19.99,8.1,60,2023-05-17
+218,Legendary Rebellion: Final Cut,Cyclone Games,Horreur,9.99,7.4,56,2023-09-05
+219,Forgotten Titans: Rise of the Fallen,Aurora Interactive,Simulation,14.99,8.1,76,2024-05-13
+220,Sacred Depths: New Dawn,Vex Games,Roguelike,19.99,8.9,67,2013-04-23
+221,Dark Blades: The Beginning,Zenith Games,MOBA,89.99,8.7,96,2020-09-16
+222,Sacred Ashes Chapter 2,Cobalt Studios,MOBA,69.99,8.8,138,2022-02-28
+223,Team Fortress 2,Valve,FPS,0.0,8.7,300,2007-10-10
+224,Mythic Throne: Dark Genesis,Titan Interactive,MMORPG,79.99,7.7,93,2023-02-02
+225,Lost Codex: New Dawn,Northern Lights,Strategie,69.99,8.7,101,2019-10-10
+226,Crimson Rebellion III,Frostbite Studios,Plateforme,39.99,3.2,84,2025-07-26
+227,Divine Realms II,Northern Lights,Simulation,19.99,7.5,96,2020-01-31
+228,Eternal Knights: Final Cut,Lunar Games,Simulation,29.99,7.3,51,2019-04-15
+229,Forgotten Odyssey III,Titan Interactive,RPG,29.99,6.7,67,2011-12-03
+230,Silent Empire: Remastered,Cyclone Games,Rythme,49.99,6.9,106,2017-07-08
+231,Hidden Codex: Remastered,Zenith Games,Aventure,49.99,7.1,115,2011-09-07
+232,Crimson Souls HD,Sunrise Software,Battle Royale,49.99,6.5,70,2025-08-30
+233,Ancient Realms: The Beginning,Iron Games,FPS,59.99,9.5,107,2013-03-06
+234,Sacred Chronicles Chapter 2,Crimson Byte,Battle Royale,19.99,5.7,62,2018-04-27
+235,Lost Throne HD,Iron Games,Action,39.99,8.6,103,2011-06-13
+236,Chaotic Riders: Definitive Edition,Cyclone Games,Course,29.99,5.4,49,2013-09-09
+237,Blessed Depths: Final Cut,Cobalt Studios,Roguelike,19.99,6.2,82,2016-10-19
+238,Endless Empire III,Ember Software,Rythme,39.99,7.3,73,2023-06-17
+239,Apex Legends,Respawn,Battle Royale,0.0,8.6,300,2019-02-04
+240,Iron Shadows HD,Solstice Interactive,RPG,49.99,7.3,65,2025-04-18
+241,Chaotic Shadows: Origins,Deep Wave,Sport,89.99,5.1,76,2020-04-06
+242,Silent Knights II,Iron Games,Point & Click,29.99,7.3,72,2012-02-02
+243,Cursed Titans: Rise of the Fallen,Northern Lights,Action,89.99,7.9,113,2015-06-05
+244,Chaotic Chronicles: Origins,Ember Software,MMORPG,24.99,6.2,50,2024-11-02
+245,Forgotten Saga Ultimate,Zenith Games,Aventure,89.99,9.5,114,2010-09-12
+246,Mythic Empire: Rise of the Fallen,Nova Interactive,MMORPG,29.99,6.3,99,2021-05-28
+247,Golden Ashes HD,Vex Games,Simulation,9.99,8.4,101,2013-12-21
+248,Crimson Realms: Final Cut,Northern Lights,MOBA,24.99,9.2,81,2011-03-16
+249,Shattered Realms: New Dawn,Zenith Games,Roguelike,39.99,3.7,39,2013-04-11
+250,Path of Exile 2,Grinding Gear,RPG,29.99,9.1,100,2024-12-06
+251,Wild Fortress: Final Cut,Vex Games,Course,39.99,8.8,114,2019-10-11
+252,Golden Rebellion HD,Aurora Interactive,MOBA,49.99,6.4,88,2020-02-04
+253,Mythic Saga III,Hollow Studios,Roguelike,69.99,8.2,96,2013-10-07
+254,Lost Chronicles HD,Vex Games,Horreur,4.99,3.3,35,2019-04-07
+255,Sacred Knights III,Lunar Games,Aventure,29.99,7.0,64,2017-02-19
+256,Chaotic Codex: Reborn,Neon Studios,FPS,79.99,6.9,95,2015-10-21
+257,The Legend of Zelda: Breath of the Wild,Nintendo,Aventure,79.99,9.7,100,2017-03-03
+258,Call of Duty: Warzone,Activision,Battle Royale,0.0,7.8,200,2020-03-10
+259,Frozen Codex: Dark Genesis,Silverline,Battle Royale,14.99,9.4,91,2016-10-10
+260,Silver Fortress II,Solstice Interactive,RPG,39.99,7.9,112,2010-10-01
+261,Cities: Skylines II,Colossal Order,Simulation,49.99,6.8,60,2023-10-24
+262,Sacred Hunters: Origins,Aurora Interactive,Course,69.99,9.4,111,2025-06-14
+263,Hidden Chronicles Ultimate,Solstice Interactive,Point & Click,9.99,7.7,77,2014-11-26
+264,Hidden Warriors II,Wildfire Entertainment,VR,69.99,9.2,80,2019-06-10
+265,Blessed Uprising: The Beginning,Pixel Forge,Sport,89.99,8.0,105,2019-06-04
+266,Sacred Warriors,Aurora Interactive,Course,14.99,9.0,67,2011-03-06
+267,Cursed Ashes,Solstice Interactive,FPS,69.99,5.6,92,2017-09-14
+268,Iron Codex: The Beginning,Neon Studios,Sport,39.99,8.5,74,2014-08-13
+269,Iron Riders: Definitive Edition,Titan Interactive,FPS,39.99,8.9,94,2020-02-20
+270,Legendary Hunters: Final Cut,Ember Software,MOBA,59.99,7.0,114,2017-09-19
+271,Golden Realms: Dark Genesis,Hollow Studios,Puzzle,49.99,9.1,75,2022-06-24
+272,Hollow Knight,Team Cherry,Metroidvania,14.99,9.4,40,2017-02-24
+273,Hidden Ashes: Definitive Edition,Wildfire Entertainment,MMORPG,29.99,7.8,64,2023-05-18
+274,Sacred Depths: New Dawn,Vex Games,Strategie,0.0,7.1,89,2025-03-14
+275,Deadly Realms: New Dawn,Aurora Interactive,Roguelike,9.99,8.0,64,2019-03-27
+276,Golden Warriors: Reborn,Wildfire Entertainment,FPS,14.99,6.3,63,2014-02-22
+277,Fallen Souls Chapter 2,Iron Games,Plateforme,29.99,8.6,99,2022-07-15
+278,Endless Machine: The Beginning,Wildfire Entertainment,RPG,4.99,3.8,39,2024-05-14
+279,Chaotic Chronicles HD,Hollow Studios,Sport,14.99,7.9,105,2025-04-19
+280,Legendary Shadows: Definitive Edition,Aurora Interactive,MOBA,39.99,8.2,94,2016-06-24
+281,Mythic Skies: Dark Genesis,Sunrise Software,Sandbox,39.99,4.9,92,2025-01-24
+282,Mythic Blades: New Dawn,Solstice Interactive,Puzzle,39.99,8.7,88,2023-12-16
+283,Silent Awakening: Final Cut,Titan Interactive,VR,69.99,8.9,83,2020-01-26
+284,Blessed Chronicles Ultimate,Hollow Studios,Point & Click,59.99,4.7,79,2023-04-27
+285,Broken Crown HD,Pixel Forge,Rythme,89.99,4.3,78,2019-01-24
+286,Cursed Saga: Remastered,Solstice Interactive,Battle Royale,24.99,6.2,65,2010-11-05
+287,Sacred Titans: Reborn,Crimson Byte,Action,29.99,7.5,61,2012-01-22
+288,Chaotic Machine: Reborn,Lunar Games,Puzzle,4.99,6.2,66,2013-04-29
+289,Genshin Impact,HoYoverse,RPG,0.0,8.5,400,2020-09-28
+290,Bloodborne,FromSoftware,RPG,39.99,9.4,55,2015-03-24
+291,Portal,Valve,Puzzle,9.99,9.4,8,2007-10-10
+292,Shattered Sanctuary III,Northern Lights,Action,9.99,8.3,71,2014-03-05
+293,Forgotten Rebellion: Origins,Wildfire Entertainment,Battle Royale,89.99,8.5,123,2025-03-29
+294,Endless Hunters: Reborn,Aurora Interactive,Point & Click,79.99,4.7,71,2018-10-25
+295,Chaotic Legacy: Reborn,Sunrise Software,Strategie,89.99,8.8,116,2019-01-26
+296,Hidden Kingdom: Final Cut,Crimson Byte,Sport,29.99,6.2,100,2018-08-12
+297,Iron Odyssey: Rise of the Fallen,Zenith Games,FPS,0.0,5.7,54,2011-05-12
+298,Frozen Awakening: Reborn,Northern Lights,Strategie,39.99,7.1,57,2022-01-21
+299,Golden Sanctuary: Definitive Edition,Iron Games,Course,9.99,5.1,81,2025-12-23
+300,Iron Uprising: Remastered,Vex Games,Course,39.99,8.1,76,2022-08-28
+301,Sacred Rebellion: Final Cut,Sunrise Software,Sandbox,49.99,3.4,84,2021-04-12
+302,Wild Requiem: Final Cut,Lunar Games,VR,14.99,6.9,58,2016-01-08
+303,Rising Odyssey III,Pixel Forge,Battle Royale,59.99,5.1,67,2011-02-19
+304,Forgotten Legends III,Crimson Byte,Strategie,89.99,6.6,109,2021-01-30
+305,Broken Blades: Rise of the Fallen,Frostbite Studios,Rythme,0.0,6.2,68,2017-07-28
+306,Eternal Frontier: Remastered,Solstice Interactive,Horreur,59.99,7.4,118,2023-05-18
+307,Shattered Knights Chapter 2,Wildfire Entertainment,VR,79.99,6.1,110,2012-07-24
+308,Sacred Realms HD,Cyclone Games,Aventure,49.99,6.3,77,2015-02-26
+309,Lost Crown: The Beginning,Northern Lights,VR,59.99,7.5,105,2015-07-10
+310,World of Warcraft,Blizzard,MMORPG,14.99,8.6,700,2004-11-23
+311,Blessed Realms,Cyclone Games,MMORPG,39.99,8.3,78,2014-01-08
+312,Wild Legacy,Deep Wave,Strategie,49.99,7.5,102,2012-10-28
+313,Iron Throne: Rise of the Fallen,Neon Studios,Battle Royale,69.99,8.2,91,2016-06-14
+314,Hidden Saga: Origins,Nova Interactive,Sandbox,14.99,6.7,95,2023-02-22
+315,Shattered Fortress: Origins,Aurora Interactive,RPG,59.99,9.2,122,2021-06-13
+316,Mythic Guardians Ultimate,Sunrise Software,VR,49.99,6.4,56,2025-02-15
+317,Pokemon Legends: Arceus,Game Freak,RPG,69.99,8.3,50,2022-01-28
+318,Valorant,Riot Games,FPS,0.0,8.4,250,2020-06-02
+319,Legendary Souls: Definitive Edition,Cobalt Studios,Point & Click,49.99,6.5,60,2017-04-16
+320,Iron Hunters: Remastered,Silverline,Metroidvania,19.99,8.9,78,2021-07-02
+321,Golden Skies: Rise of the Fallen,Cyclone Games,Strategie,49.99,7.7,71,2024-02-24
+322,Golden Ashes: The Beginning,Cobalt Studios,MMORPG,89.99,7.0,99,2021-04-03
+323,Marvel's Spider-Man 2,Insomniac,Action,89.99,9.0,35,2023-10-20
+324,Ancient Requiem HD,Vex Games,Rythme,4.99,7.5,86,2025-10-14
+325,Golden Saga II,Deep Wave,RPG,89.99,6.1,124,2020-02-04
+326,Golden Realms: Reborn,Wildfire Entertainment,Action,69.99,8.0,114,2017-04-14
+327,Cursed Uprising III,Cobalt Studios,VR,24.99,7.2,73,2017-11-30
+328,Shattered Fortress,Silverline,Aventure,59.99,7.7,69,2020-07-31
+329,Lost Frontier: Dark Genesis,Lunar Games,Strategie,79.99,6.3,112,2011-04-20
+330,Honkai Star Rail,HoYoverse,RPG,0.0,8.7,200,2023-04-26
+331,Dota 2,Valve,MOBA,0.0,8.5,800,2013-07-09
+332,Golden Empire III,Solstice Interactive,Sport,49.99,5.6,98,2019-02-18
+333,Rocket League,Psyonix,Sport,0.0,8.7,250,2015-07-07
+334,Starfield,Bethesda,RPG,89.99,6.8,100,2023-09-06
+335,Cursed Skies Chapter 2,Ember Software,Puzzle,69.99,9.1,137,2013-09-09
+336,Fallen Frontier: Reborn,Cobalt Studios,Horreur,4.99,3.0,59,2015-05-06
+337,Eternal Kingdom III,Sunrise Software,Sport,24.99,8.0,90,2013-01-29
+338,Legendary Blades: Remastered,Ember Software,Action,4.99,4.2,38,2022-05-22
+339,Silver Throne HD,Pixel Forge,RPG,19.99,6.7,75,2024-03-24
+340,Chaotic Blades: Reborn,Sunrise Software,Horreur,59.99,6.6,94,2019-01-18
+341,Ancient Uprising,Crimson Byte,MMORPG,29.99,6.7,76,2024-09-07
+342,Wild Titans: Rise of the Fallen,Iron Games,Roguelike,9.99,9.4,72,2025-02-15
+343,Deadly Frontier III,Cyclone Games,Rythme,24.99,6.4,98,2021-06-06
+344,Ratchet & Clank: Rift Apart,Insomniac,Plateforme,49.99,8.8,25,2021-06-11
+345,Rising Legends: New Dawn,Nova Interactive,Sandbox,69.99,8.6,107,2021-11-19
+346,Iron Empire Chapter 2,Pixel Forge,MMORPG,39.99,4.0,70,2017-03-25
+347,Vampire Survivors,Poncle,Roguelike,4.99,9.0,60,2022-10-20
+348,Wild Kingdom: Rise of the Fallen,Ember Software,Plateforme,14.99,8.4,68,2024-11-17
+349,Forgotten Kingdom,Neon Studios,Strategie,9.99,6.3,43,2011-01-12
+350,Hidden Hunters,Wildfire Entertainment,Course,19.99,5.2,78,2014-04-04
+351,Dark Empire: Dark Genesis,Solstice Interactive,Metroidvania,29.99,8.2,92,2011-06-03
+352,Broken Requiem: Rise of the Fallen,Northern Lights,VR,19.99,6.2,55,2014-11-21
+353,Dragon Age: Inquisition,BioWare,RPG,39.99,8.5,90,2014-11-18
+354,Chaotic Empire: Definitive Edition,Solstice Interactive,Horreur,19.99,6.4,79,2025-10-14
+355,Chaotic Warriors,Neon Studios,Puzzle,19.99,5.7,49,2023-02-27
+356,Chaotic Throne II,Hollow Studios,Puzzle,0.0,7.9,72,2016-01-11
+357,Ancient Souls: Rise of the Fallen,Wildfire Entertainment,RPG,29.99,8.9,96,2023-04-11
+358,Wolfenstein: The New Colossus,MachineGames,FPS,29.99,8.2,20,2017-10-27
+359,Stardew Valley,ConcernedApe,Simulation,14.99,9.5,200,2016-02-26
+360,Forgotten Crown: Remastered,Ember Software,Aventure,69.99,4.9,65,2014-12-03
+361,Chaotic Riders: Reborn,Wildfire Entertainment,Action,89.99,5.8,127,2015-12-07
+362,Blessed Empire II,Crimson Byte,Strategie,0.0,7.7,58,2018-08-04
+363,Crimson Depths: Origins,Zenith Games,RPG,39.99,7.3,71,2020-02-02
+364,Wild Fortress Ultimate,Cyclone Games,Sandbox,0.0,8.4,68,2020-02-08
+365,Cursed Legends: The Beginning,Titan Interactive,Sport,29.99,5.6,80,2015-09-18
+366,Hidden Blades,Wildfire Entertainment,Plateforme,24.99,7.9,56,2025-09-08
+367,God of War,Santa Monica,Action,39.99,9.5,40,2018-04-20
+368,Sacred Shadows: Rise of the Fallen,Ember Software,Action,39.99,9.3,78,2020-05-09
+369,Half-Life: Alyx,Valve,FPS VR,59.99,9.3,15,2020-03-23
+370,Rising Ashes: Rise of the Fallen,Vanguard Studios,Strategie,69.99,7.3,103,2012-06-05
+371,Frozen Uprising: Origins,Iron Games,Action,19.99,7.3,87,2020-04-12
+372,Cursed Realms II,Lunar Games,Aventure,24.99,7.7,104,2016-03-21
+373,Endless Depths: The Beginning,Solstice Interactive,Strategie,69.99,9.0,86,2019-04-13
+374,Divine Guardians: Reborn,Sunrise Software,MMORPG,9.99,6.1,52,2013-07-19
+375,Divine Frontier: Dark Genesis,Northern Lights,Plateforme,79.99,9.2,130,2018-03-30
+376,Chaotic Awakening II,Cobalt Studios,Plateforme,49.99,8.7,114,2014-11-19
+377,Forgotten Uprising: Origins,Titan Interactive,MOBA,24.99,7.8,90,2014-05-20
+378,Fallen Saga: Final Cut,Frostbite Studios,MOBA,24.99,6.4,94,2023-01-22
+379,Dark Realms: The Beginning,Wildfire Entertainment,RPG,69.99,7.8,97,2022-07-20
+380,Death Stranding,Kojima Productions,Aventure,39.99,8.4,55,2019-11-08
+381,Cursed Depths Ultimate,Crimson Byte,Point & Click,69.99,7.2,75,2017-04-30
+382,Balatro,LocalThunk,Roguelike,14.99,9.4,80,2024-02-20
+383,Path of Exile,Grinding Gear,RPG,0.0,9.0,300,2013-10-23
+384,Endless Warriors II,Solstice Interactive,RPG,69.99,7.0,89,2020-07-08
+385,Deadly Warriors III,Sunrise Software,Puzzle,89.99,8.4,135,2024-10-22
+386,Silent Blades: Origins,Vex Games,Metroidvania,4.99,6.0,51,2021-08-21
+387,NHL 25,EA Sports,Sport,79.99,7.0,50,2024-10-04
+388,Slay the Spire,Mega Crit,Roguelike,24.99,9.1,100,2019-01-23
+389,Sacred Shadows: Rise of the Fallen,Nova Interactive,MMORPG,39.99,7.2,115,2022-06-20
+390,The Witcher 3: Wild Hunt,CD Projekt Red,RPG,39.99,9.6,130,2015-05-19
+391,The Legend of Zelda: Tears of the Kingdom,Nintendo,Aventure,89.99,9.6,120,2023-05-12
+392,Divine Kingdom Chapter 2,Deep Wave,MOBA,19.99,8.9,88,2010-06-09
+393,Mythic Legends Ultimate,Aurora Interactive,Plateforme,24.99,5.3,76,2012-06-04
+394,Fallen Chronicles: The Beginning,Neon Studios,Battle Royale,59.99,6.6,66,2011-09-30
+395,Crimson Machine: Remastered,Crimson Byte,Sport,69.99,6.5,68,2017-05-26
+396,Mythic Realms: Rise of the Fallen,Ember Software,RPG,4.99,5.5,37,2023-03-31
+397,Endless Blades: Final Cut,Hollow Studios,Sport,14.99,8.4,88,2024-02-02
+398,Dark Knights: Rise of the Fallen,Lunar Games,Simulation,69.99,8.8,109,2017-12-09
+399,Halo Infinite,343 Industries,FPS,59.99,8.0,55,2021-12-08
+400,The Elder Scrolls V: Skyrim,Bethesda,RPG,39.99,9.4,120,2011-11-11
+401,Fallen Shadows Chapter 2,Titan Interactive,Plateforme,59.99,8.1,130,2019-02-09
+402,Silent Empire Chapter 2,Wildfire Entertainment,Rythme,39.99,9.0,74,2025-04-28
+403,Fallen Requiem,Zenith Games,Action,79.99,5.2,89,2025-10-06
+404,Blessed Shadows: Remastered,Northern Lights,MOBA,24.99,6.7,101,2012-11-14
+405,Far Cry 6,Ubisoft,FPS,59.99,7.4,40,2021-10-07
+406,Lost Blades: Remastered,Solstice Interactive,Horreur,89.99,6.7,96,2013-04-22
+407,Sacred Warriors HD,Silverline,Sport,4.99,5.8,68,2025-01-08
+408,Mythic Hunters: New Dawn,Frostbite Studios,MMORPG,9.99,5.5,83,2013-09-21
+409,Assassin's Creed Shadows,Ubisoft,Aventure,79.99,7.8,80,2025-03-20
+410,Wild Knights II,Nova Interactive,Strategie,69.99,8.3,122,2010-09-16
+411,Assassin's Creed Mirage,Ubisoft,Aventure,49.99,7.5,25,2023-10-05
+412,Lost Knights: Final Cut,Titan Interactive,Point & Click,0.0,5.2,81,2010-12-03
+413,FIFA 25 / EA FC 25,EA Sports,Sport,89.99,7.2,100,2024-09-27
+414,Legendary Warriors: New Dawn,Vex Games,Sandbox,14.99,5.3,42,2020-12-23
+415,Forza Horizon 5,Playground Games,Course,59.99,9.0,70,2021-11-09
+416,Golden Crown: Remastered,Aurora Interactive,FPS,4.99,9.3,98,2018-07-31
+417,Mario Kart 8 Deluxe,Nintendo,Course,79.99,9.2,90,2017-04-28
+418,Frozen Legends Chapter 2,Nova Interactive,Point & Click,59.99,4.6,69,2018-07-08
+419,Shattered Riders: Reborn,Iron Games,Action,89.99,5.3,95,2016-11-30
+420,Divine Awakening III,Vex Games,Puzzle,29.99,9.4,82,2013-06-23
+421,Football Manager 2024,Sports Interactive,Sport,59.99,8.5,200,2023-11-06
+422,Rising Throne: Rise of the Fallen,Nova Interactive,Puzzle,19.99,5.7,78,2024-02-03
+423,Fire Emblem Engage,Intelligent Systems,RPG,79.99,8.3,60,2023-01-20
+424,Cursed Throne: New Dawn,Hollow Studios,Course,9.99,7.6,81,2018-11-26
+425,Silver Throne: Rise of the Fallen,Titan Interactive,VR,89.99,6.3,114,2015-02-08
+426,Blessed Sanctuary HD,Ember Software,Course,79.99,8.2,92,2013-01-29
+427,Blessed Ashes: Remastered,Sunrise Software,Rythme,14.99,9.2,100,2014-09-22
+428,Crimson Odyssey: Rise of the Fallen,Vanguard Studios,Metroidvania,14.99,6.6,48,2022-06-09
+429,Rising Legends,Nova Interactive,MMORPG,19.99,7.9,66,2023-10-17
+430,Factorio,Wube,Simulation,34.99,9.5,400,2020-08-14
+431,Divine Empire II,Frostbite Studios,MMORPG,14.99,7.4,94,2024-03-17
+432,Iron Chronicles Chapter 2,Hollow Studios,Puzzle,0.0,5.1,75,2012-01-09
+433,Forgotten Skies II,Neon Studios,Aventure,0.0,3.5,36,2015-06-29
+434,Sekiro: Shadows Die Twice,FromSoftware,Action,69.99,9.2,45,2019-03-22
+435,Silent Chronicles: New Dawn,Wildfire Entertainment,MOBA,4.99,3.4,75,2014-03-07
+436,Silent Warriors: Rise of the Fallen,Pixel Forge,Action,14.99,6.0,77,2020-02-21
+437,Forgotten Saga: Dark Genesis,Crimson Byte,Action,0.0,7.3,76,2014-11-27
+438,Rainbow Six Siege,Ubisoft,FPS,19.99,8.4,300,2015-12-01
+439,Warframe,Digital Extremes,MMO,0.0,8.7,500,2013-03-25
+440,Legendary Fortress: Remastered,Nova Interactive,RPG,0.0,3.9,34,2024-08-30
+441,Eternal Empire: Remastered,Solstice Interactive,MMORPG,0.0,7.4,76,2020-11-22
+442,Ancient Odyssey: Rise of the Fallen,Ember Software,Action,9.99,9.2,85,2012-02-04
+443,Chaotic Sanctuary Ultimate,Iron Games,MMORPG,14.99,8.2,107,2011-10-09
+444,Legendary Sanctuary: The Beginning,Wildfire Entertainment,Metroidvania,19.99,9.0,73,2020-04-18
+445,Blessed Chronicles: Final Cut,Iron Games,Roguelike,24.99,5.8,89,2015-08-30
+446,Broken Throne Ultimate,Aurora Interactive,FPS,69.99,9.1,89,2024-10-29
+447,Deadly Odyssey HD,Frostbite Studios,MOBA,79.99,7.0,129,2016-06-02
+448,Gran Turismo 7,Polyphony Digital,Course,79.99,8.5,60,2022-03-04
+449,Deadly Guardians: Remastered,Vanguard Studios,MOBA,69.99,6.0,105,2020-05-03
+450,Divine Chronicles II,Frostbite Studios,Roguelike,4.99,4.9,51,2023-09-18
+451,Grand Theft Auto VI,Rockstar,Aventure,89.99,9.8,100,2025-10-15
+452,Frozen Warriors: Reborn,Ember Software,Battle Royale,9.99,6.7,87,2010-03-07
+453,Iron Frontier: Dark Genesis,Neon Studios,Sandbox,59.99,8.4,106,2015-09-16
+454,NBA 2K24,Visual Concepts,Sport,69.99,6.5,80,2023-09-08
+455,Dark Frontier: Final Cut,Nova Interactive,Point & Click,89.99,4.7,116,2019-07-07
+456,Shattered Rebellion,Silverline,Sport,9.99,6.3,82,2015-08-07
+457,Eternal Titans,Titan Interactive,Point & Click,24.99,6.5,67,2014-05-14
+458,Half-Life 2,Valve,FPS,9.99,9.5,20,2004-11-16
+459,Cursed Fortress: Rise of the Fallen,Vex Games,Aventure,89.99,7.6,124,2012-03-31
+460,Frozen Codex,Frostbite Studios,Metroidvania,0.0,7.6,47,2015-05-25
+461,Golden Rebellion: Final Cut,Aurora Interactive,RPG,59.99,5.8,89,2022-09-06
+462,Fallen Odyssey II,Wildfire Entertainment,Action,19.99,8.2,63,2018-10-04
+463,Fallen Crown: Final Cut,Silverline,Roguelike,49.99,7.6,78,2016-10-09
+464,Silent Shadows III,Titan Interactive,Roguelike,39.99,9.1,119,2025-08-24
+465,Iron Sanctuary II,Titan Interactive,MMORPG,0.0,5.9,70,2024-03-28
+466,Battlefield 2042,DICE,FPS,69.99,5.4,40,2021-11-19
+467,Deadly Odyssey,Northern Lights,Battle Royale,69.99,6.6,124,2010-05-14
+468,Sacred Awakening: Reborn,Cyclone Games,Battle Royale,59.99,8.7,118,2011-04-01
+469,Blessed Guardians: The Beginning,Crimson Byte,RPG,19.99,9.1,98,2021-03-26
+470,Legendary Uprising: Reborn,Nova Interactive,Strategie,24.99,7.7,68,2015-12-08
+471,Splatoon 3,Nintendo,Shooter,79.99,8.6,100,2022-09-09
+472,Mass Effect Legendary Edition,BioWare,RPG,59.99,9.3,100,2021-05-14
+473,Deadly Ashes: Origins,Iron Games,VR,59.99,5.6,103,2024-11-19
+474,Shattered Skies Ultimate,Aurora Interactive,MOBA,14.99,6.9,87,2021-07-18
+475,Minecraft,Mojang,Sandbox,29.99,9.0,200,2011-11-18
+476,Endless Awakening Chapter 2,Vex Games,Roguelike,39.99,3.6,81,2018-06-08
+477,Chaotic Blades: Dark Genesis,Lunar Games,Roguelike,69.99,9.2,128,2016-03-26
+478,Metroid Dread,MercurySteam,Metroidvania,79.99,8.9,15,2021-10-08
+479,Chaotic Saga: Origins,Silverline,Strategie,14.99,8.1,77,2024-01-08
+480,Sacred Warriors III,Zenith Games,MOBA,29.99,7.2,108,2018-11-16
+481,Lost Odyssey: New Dawn,Northern Lights,Puzzle,19.99,3.3,57,2024-01-28
+482,Grand Theft Auto V,Rockstar,Aventure,39.99,9.4,75,2013-09-17
+483,Divine Awakening: New Dawn,Ember Software,Aventure,39.99,4.3,97,2023-11-07
+484,Chaotic Crown: Final Cut,Wildfire Entertainment,FPS,39.99,7.1,112,2015-05-29
+485,Golden Skies: New Dawn,Zenith Games,Puzzle,19.99,8.1,93,2023-05-07
+486,Dark Depths II,Zenith Games,Plateforme,79.99,6.0,75,2011-11-03
+487,Fallen Realms,Cyclone Games,Metroidvania,49.99,8.3,105,2022-08-05
+488,Fallout: New Vegas,Obsidian,RPG,9.99,9.3,80,2010-10-19
+489,Uncharted 4,Naughty Dog,Aventure,39.99,9.3,15,2016-05-10
+490,Hidden Requiem: Reborn,Solstice Interactive,Battle Royale,29.99,7.5,82,2017-02-25
+491,Lost Odyssey II,Crimson Byte,VR,49.99,7.2,91,2016-10-25
+492,Hidden Ashes III,Northern Lights,Puzzle,59.99,9.3,98,2015-09-28
+493,Endless Blades Chapter 2,Lunar Games,Simulation,69.99,6.4,93,2011-03-15
+494,Silver Depths: Origins,Silverline,Roguelike,29.99,9.1,71,2016-04-09
+495,Metroid Prime Remastered,Retro Studios,FPS,49.99,9.2,20,2023-02-08
+496,Divine Warriors HD,Cobalt Studios,Metroidvania,49.99,9.5,102,2017-01-07
+497,Forgotten Shadows: The Beginning,Sunrise Software,Plateforme,89.99,6.2,97,2012-11-09
+498,Blessed Machine Chapter 2,Crimson Byte,MMORPG,49.99,9.4,115,2024-09-09
+499,Silver Realms: The Beginning,Hollow Studios,Battle Royale,59.99,5.0,80,2025-11-12
+500,Hidden Legacy: The Beginning,Pixel Forge,Sandbox,9.99,3.4,49,2021-04-05
