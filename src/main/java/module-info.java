@@ -1,6 +1,7 @@
 module com.maisonneuve.steamgames {
     requires javafx.controls;
     requires javafx.fxml;
+    requires java.desktop;
 
 
     opens com.maisonneuve.steamgames to javafx.fxml;
