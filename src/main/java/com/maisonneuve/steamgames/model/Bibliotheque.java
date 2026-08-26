@@ -1,5 +1,7 @@
 package com.maisonneuve.steamgames.model;
 
+import com.maisonneuve.steamgames.util.LecteurCSV;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -18,7 +20,8 @@ public class Bibliotheque {
         };
     }
 
-    public void chargerDepuisCSV(String path) {
+    public void chargerDepuisCSV(String path, LecteurCSV lecteur) throws Exception {
+        jeux = lecteur.recupererJeux(path);
 
     }
 
@@ -39,6 +42,13 @@ public class Bibliotheque {
 
     public void setJeux(List<Jeu> jeux) {
         this.jeux = jeux;
+    }
+
+    @Override
+    public String toString() {
+        return "Bibliotheque{" +
+                "jeux=" + jeux +
+                '}';
     }
 
     public List<Jeu> getJeux() {
