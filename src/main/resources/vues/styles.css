@@ -1,0 +1,210 @@
+/* ====== Global layout / root ====== */
+
+BorderPane {
+    -fx-background-color: #101820;
+    -fx-padding: 8;
+    -fx-font-family: "Segoe UI", "Roboto", "Sans-Serif";
+    -fx-text-fill: #e5e7eb;
+}
+
+/* ====== Top: titre + barre de filtres ====== */
+
+VBox > Label {
+    -fx-text-fill: #e5e7eb;
+    -fx-font-size: 18px;
+    -fx-font-weight: 600;
+}
+
+HBox {
+    -fx-spacing: 8;
+}
+
+/* Petits panneaux de filtres */
+HBox > VBox {
+    /*-fx-background-color: #1b2838;*/
+    -fx-background-radius: 6;
+    -fx-padding: 6 8;
+    -fx-spacing: 4;
+}
+
+HBox > VBox > Label {
+    -fx-text-fill: #9ca3af;
+    -fx-font-size: 11px;
+    -fx-font-weight: 500;
+}
+
+/* ====== TextField / ComboBox / Spinner (barre de filtres) ====== */
+
+TextField,
+ComboBox,
+Spinner {
+    -fx-background-color: #0f172a;
+    -fx-text-fill: #e5e7eb;
+    -fx-background-radius: 4;
+    -fx-border-color: #374151;
+    -fx-border-radius: 4;
+    -fx-border-width: 1;
+    -fx-padding: 4 8;
+    -fx-font-size: 12px;
+}
+
+TextField:focused,
+ComboBox:focused,
+Spinner:focused {
+    -fx-border-color: #22c55e;
+    -fx-effect: dropshadow(gaussian, rgba(34,197,94,0.35), 8, 0.3, 0, 0);
+}
+
+/* ComboBox popup */
+.combo-box .list-cell {
+    -fx-background-color: #020617;
+    -fx-text-fill: #e5e7eb;
+}
+.combo-box .list-cell:hover {
+    -fx-background-color: #1f2937;
+}
+
+/* ====== Bouton Wishlist (top) ====== */
+
+#btnWishlist {
+    -fx-background-color: linear-gradient(to bottom, #22c55e, #16a34a);
+    -fx-text-fill: #0b1120;
+    -fx-font-weight: 600;
+    -fx-background-radius: 6;
+    -fx-border-radius: 6;
+    -fx-border-color: #16a34a;
+    -fx-border-width: 1;
+    -fx-cursor: hand;
+}
+
+#btnWishlist:hover {
+    -fx-background-color: linear-gradient(to bottom, #4ade80, #22c55e);
+}
+
+#btnWishlist:pressed {
+    -fx-background-color: #15803d;
+}
+
+/* ====== ListView des jeux (gauche) ====== */
+
+#listGames {
+    -fx-background-color: #020617;
+    -fx-border-color: #1f2937;
+    -fx-border-width: 1;
+    -fx-background-insets: 0;
+    -fx-padding: 4;
+}
+
+#listGames .list-cell {
+    -fx-background-color: transparent;
+    -fx-text-fill: #e5e7eb;
+    -fx-padding: 6 10;
+    -fx-font-size: 13px;
+}
+
+#listGames .list-cell:hover {
+    -fx-background-color: #111827;
+}
+
+#listGames .list-cell:selected {
+    -fx-background-color: linear-gradient(to right, #22c55e33, #22c55e11);
+    -fx-text-fill: #e5e7eb;
+    -fx-font-weight: 600;
+}
+
+/* ====== Panneau de détails (droite) ====== */
+
+VBox {
+    -fx-spacing: 6;
+}
+
+/* Titre du jeu */
+#labelTitre {
+    -fx-background-color: #0f172a;
+    -fx-background-radius: 6;
+    -fx-text-fill: #e5e7eb;
+    -fx-font-weight: 600;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.6), 10, 0.4, 0, 2);
+}
+
+/* Grid des infos */
+GridPane {
+    -fx-background-color: #020617;
+    -fx-background-radius: 6;
+    -fx-border-color: #1f2937;
+    -fx-border-radius: 6;
+    -fx-border-width: 1;
+    -fx-hgap: 8;
+    -fx-vgap: 4;
+    -fx-padding: 8 12;
+}
+
+/* Labels colonnes gauche (libellés) */
+GridPane > Label {
+    -fx-text-fill: #9ca3af;
+    -fx-font-size: 12px;
+}
+
+/* Labels colonnes droite (valeurs) */
+#labelDev,
+#labelGenre,
+#labelPrix,
+#labelNote,
+#labelTempsJeu,
+#labelDate {
+    -fx-text-fill: #e5e7eb;
+    -fx-font-size: 12px;
+    -fx-font-weight: 500;
+}
+
+/* Note mise en avant */
+#labelNote {
+    -fx-text-fill: #22c55e;
+    -fx-font-weight: 600;
+}
+
+/* ====== Checkbox Wishlist (droite) ====== */
+
+#checkWishlist {
+    -fx-text-fill: #e5e7eb;
+    -fx-background-color: #0f172a;
+    -fx-background-radius: 6;
+    -fx-padding: 6 10;
+}
+
+#checkWishlist .box {
+    -fx-border-color: #22c55e;
+    -fx-border-radius: 3;
+    -fx-background-color: #020617;
+}
+
+#checkWishlist:selected .box {
+    -fx-background-color: #22c55e;
+}
+
+/* ====== Message en bas ====== */
+
+#labelMessage {
+    -fx-background-color: #020617;
+    -fx-text-fill: #9ca3af;
+    -fx-padding: 4 8;
+    -fx-font-size: 11px;
+    -fx-border-color: #1f2937;
+    -fx-border-width: 1 0 0 0;
+}
+
+/* ====== Scrollbars (Steam-like) ====== */
+
+.scroll-bar:vertical,
+.scroll-bar:horizontal {
+    -fx-background-color: transparent;
+}
+
+.scroll-bar .thumb {
+    -fx-background-color: #374151;
+    -fx-background-radius: 4;
+}
+
+.scroll-bar .thumb:hover {
+    -fx-background-color: #4b5563;
+}
