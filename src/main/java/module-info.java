@@ -1,6 +1,7 @@
 module com.maisonneuve.steamgames {
     requires javafx.controls;
     requires javafx.fxml;
+    requires com.opencsv;
 
     requires com.opencsv;
     requires jdk.compiler;
