@@ -24,5 +24,4 @@ public class MainFx extends Application {
 
         stage.show();
     }
-
 }
